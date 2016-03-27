@@ -1,8 +1,1 @@
-Wordpress
-======
-Модуль оплаты Payeer
-
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
-
-Поддержка версии CMS Wordpress 4.0 (Woocommerce)
+Payeer WooCommerce Payment Gateway
